@@ -1,7 +1,7 @@
 # Project in Bash
 
 ## How to run
-To compile this program, use the following command
+To run this program, use the following command
 ```
 ./procstat.sh [options] [time]
 ```
