@@ -8,6 +8,7 @@ To compile this program, use the following command
 The option **time** is mandatory.
 
 The options can be:
+* **-p [number]** : show just x (number) processes;
 * **-c "string"** : find all processes that have the string in their names;
 * **-u [user_name]** : select processes through user name;
 * **-s [date]** : select all processes that start after the date;
@@ -18,6 +19,11 @@ The options can be:
 * **-w** : sort on RATEW↑;
 * **-r** : reverse;
 These options are facultative.
+
+### Example
+```
+$./procstat.sh -m -r -c "d.*" -p 1 10
+```
 
 ## Authors
 * João Reis - [joaoreis16](https://github.com/joaoreis16)
