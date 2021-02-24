@@ -18,6 +18,7 @@ The options can be:
 * **-d** : sort on RATER↑;
 * **-w** : sort on RATEW↑;
 * **-r** : reverse;
+
 These options are facultative.
 
 ### Example
