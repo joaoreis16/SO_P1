@@ -5,7 +5,7 @@ To run this program, use the following command
 ```
 ./procstat.sh [options] [time]
 ```
-The option **time** is mandatory.
+**time** is mandatory.
 
 The options can be:
 * **-p [number]** : show just x (number) processes;
