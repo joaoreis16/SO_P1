@@ -25,6 +25,8 @@ These options are facultative.
 ```
 $./procstat.sh -m -r -c "d.*" -p 1 10
 ```
+## Grade
+20
 
 ## Authors
 * João Reis - [joaoreis16](https://github.com/joaoreis16)
